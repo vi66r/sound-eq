@@ -15,7 +15,7 @@ Settings persist, but processing starts disabled on launch. Allow Sound EQ in Sy
 
 ## Build and test
 
-Requires macOS 14.4+ and Xcode command-line tools. No third-party dependencies.
+Requires macOS 14.4+ and Xcode 16 or newer (Swift 6 tools). No third-party dependencies.
 
 ```sh
 swift test
