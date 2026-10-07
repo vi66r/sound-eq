@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleExecutable</key><string>SoundEQ</string>
+    <key>CFBundleIdentifier</key><string>network.rafi.sound-eq</string>
+    <key>CFBundleName</key><string>Sound EQ</string>
+    <key>CFBundleDisplayName</key><string>Sound EQ</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleIconFile</key><string>SoundEQ-Aero</string>
+    <key>CFBundleShortVersionString</key><string>0.1.1</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>14.4</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSAudioCaptureUsageDescription</key><string>Sound EQ processes audio from your apps to add tone, reverb, and pitch effects. Audio stays on your Mac and is never recorded or uploaded.</string>
+</dict></plist>

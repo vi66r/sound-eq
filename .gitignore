@@ -1,0 +1,11 @@
+.build/
+dist/
+.DS_Store
+work/
+xcuserdata/
+*.xcuserstate
+
+.env*
+*.p12
+*.mobileprovision
+*.provisionprofile
